@@ -27,7 +27,7 @@ The Learning Phase is the first phase of the Pesto Program. It is intended to gi
 | **4:45 - 5:30 (1 Hour)** | Office Hours | Solutions and discussion on the exercises. |
 | **5:30 - 6:00 ( 0.5 hour )** | Closing Note and Project Demonstrations on Monday of every week (except the first week) | What we covered, and how will we proceed. Any feedback to give. |
 
-### Note -
+### Note - 
 - Each segment will consist of a lecture module followed by an exercise module. The exercises in Segment 2 needs to be done via **Pair Programming**.
 - The Candidates will be randomly called in 'Office Hours' to explain the programs that they have done.
 

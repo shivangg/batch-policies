@@ -75,7 +75,7 @@ https://caferati.me/
 
 - Week 1
     - Design 4 versions of your dream portfolio. The designs can be made using pencil-and-paper or mockup softwares like Balsamiq.
-    - The designs have to be substantially different. Minor adjustments to exisitng design won't be counted.
+    - The designs have to be substantially different. Minor adjustments to existing design won't be counted.
     - The designs should reflect who you are. ;)
     - See sample portfolios links above for inspiration.
 - Week 2
@@ -137,7 +137,7 @@ Bob: No way. Windows is so easy to use that even my mom can use it.
 ## Additional Rules
 
 - **3 days of permitted leave only.**
-- You should collaborate and discuss ideas with your peers. However, make sure that you don't waster their time by asking multiple questions.
+- You should collaborate and discuss ideas with your peers. However, make sure that you don't waste their time by asking multiple questions.
 
 
 
